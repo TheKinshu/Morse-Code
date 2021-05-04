@@ -1,3 +1,11 @@
+"""
+    Morse Code
+    ----------
+    This contain all the morse code data allowing the program to search and replace each character
+
+    By: (Kelvin) Chun Kit Cho
+    May 4, 2021
+"""
 morse_code_alpha = {
     "a": ".−",
     "b": "−...",
